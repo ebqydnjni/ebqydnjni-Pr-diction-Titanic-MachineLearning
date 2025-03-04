@@ -1,4 +1,4 @@
-# ebqydnjni-Pr-diction-Titanic-MachineLearning
+# Prediction-Titanic-MachineLearning
 # 🚢 **Projet d'Analyse des Données : Titanic**
 
 ##  Professeur :
