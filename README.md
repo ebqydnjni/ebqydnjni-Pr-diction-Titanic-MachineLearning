@@ -2,7 +2,7 @@
 # 🚢 **Projet d'Analyse des Données : Titanic**
 
 ##  Professeur :
-- **Docteur YOSSRA HAJJAJI** 🌟
+- **Docteur YOSRA HAJJAJI** 🌟
 
 ---
 
